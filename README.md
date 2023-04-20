@@ -1,4 +1,6 @@
-# goal-tracker.piotrdeja.pl/goals-list
+# Goal Tracker HTML/CSS/JS
 
-TO jest wersja HTML/CSS/JS dla aplickacji goal tracker do której docelowo ma być podłączony Angular
+https://goal-tracker.piotrdeja.pl/goals-list
+
+....oto jest wersja HTML/CSS/JS dla aplickacji goal tracker do której docelowo ma być podłączony Angular
 
