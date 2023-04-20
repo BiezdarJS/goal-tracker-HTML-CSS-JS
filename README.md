@@ -2,4 +2,4 @@
 
 https://goal-tracker.piotrdeja.pl
 
-....oto jest wersja HTML/CSS/JS dla aplickacji goal tracker pod Angular (docelowo)
+....oto jest wersja goal-tracker zakodowana HTML/CSS/JS dla aplickacji goal tracker pod Angular (docelowo)
